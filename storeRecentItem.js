@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function () {
     const recentItems = JSON.parse(localStorage.getItem("recentItems")) || [];
 
@@ -96,4 +95,3 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 });
-</script>
