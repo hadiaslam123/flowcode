@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function () {
     const recentContainer = document.querySelector("[item=destination]"); // Select the destination container by attribute
     const recentWrapper = document.querySelector("[item=parent]"); // Select the wrapper by attribute
@@ -79,4 +78,3 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     };
 });
-</script>
